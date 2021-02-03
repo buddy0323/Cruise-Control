@@ -70,3 +70,7 @@ Built Value provides:
 
 ## Screenshots
 <img src="screenshots/1.jpg" width="260" height="550"> <img src="screenshots/2.jpg" width="260" height="550"> <img src="screenshots/3.jpg" width="260" height="550">
+
+## ***NOTE***
+
+Project is still in development
