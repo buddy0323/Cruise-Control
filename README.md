@@ -8,16 +8,16 @@ and managing team and billing information associated with a project.
 
 **Youtube Data API V3**
 
-##### Overview
+###### Overview
 
 The [YouTube Data API v3](https://developers.google.com/youtube/v3/docs/search) is an API that provides access to YouTube data, such as videos, playlists, and channels.
 
-##### Search
+###### Search
 
 A search result contains information about a YouTube video, channel, or playlist that matches the search parameters specified in an API request. While a search result points to a
 uniquely identifiable resource, like a video, it does not have its own persistent data.
 
-##### Methods
+###### Methods
 
 The API supports the following methods for search:
 
