@@ -6,6 +6,15 @@ In the API Console, a project is a collection of settings, credentials, and meta
 and Google Cloud Platform resources. The console manages certain project tasks, such as generating API credentials, enabling APIs, 
 and managing team and billing information associated with a project.
 
+## The Brief
+
+Design, prototype and evaluate a Voice-based user interface that is designed to support Computer Science students access information relevant to their studies and to university life.
+
+This could take many forms, but is likely to have some important features:
+
+	- The user can control the system by issuing voice commands. The language of commands that a user is able to use may be complex and presents a design challenge in its own right.
+	- The response to user commands may take a variety of forms, through speech, text, or some combination of the two.
+
 **Youtube Data API V3**
 
 ###### Overview
