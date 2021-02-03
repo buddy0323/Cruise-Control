@@ -26,18 +26,18 @@ and playlist resources, but you can also configure queries to only retrieve a sp
 
 ## Libraries Used
 
-[Rive 1](https://github.com/2d-inc/Flare-Flutter) can also referred to as Flare
+**[Rive 1](https://github.com/2d-inc/Flare-Flutter) can also referred to as Flare**
 
 Rive offers powerful realtime vector design and animation for app and game designers alike. 
 The primary goal of Flare is to allow designers to work directly with assets that run in their final product, 
 eliminating the need to redo that work in code. 
 
-[Speech To Text](https://github.com/csdcorp/speech_to_text)
+**[Speech To Text](https://github.com/csdcorp/speech_to_text)**
 
 A library that exposes device specific speech recognition capability.
 This plugin contains a set of classes that make it easy to use the speech recognition capabilities of the mobile device in Flutter.
 
-[Built Value](https://github.com/google/built_value.dart)
+**[Built Value](https://github.com/google/built_value.dart)**
 
 ###### Introduction
 
