@@ -1,4 +1,7 @@
 # CST3140 Novel Interaction
+
+<a href="https://github.com/Nehal-Bhautoo/Flutter-Voice-Control-App/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Nehal-Bhautoo/Flutter-Voice-Control-App"></a> <a href="https://github.com/Nehal-Bhautoo/Flutter-Voice-Control-App/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Nehal-Bhautoo/Flutter-Voice-Control-App"></a> <a href="https://github.com/Nehal-Bhautoo/Flutter-Voice-Control-App/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Nehal-Bhautoo/Flutter-Voice-Control-App"></a> <a href="https://github.com/Nehal-Bhautoo/Flutter-Voice-Control-App"><img alt="GitHub license" src="https://img.shields.io/github/license/Nehal-Bhautoo/Flutter-Voice-Control-App"></a> <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Nehal-Bhautoo/Flutter-Voice-Control-App"> <img alt="Flutter" src="https://img.shields.io/badge/Flutter-Flutter%20App-blue"> 
+
 ## Voice Based Application 
 
 This project is a voice-based Flutter application which makes use of the [Google Api Console](https://developers.google.com/apis-explorer).
