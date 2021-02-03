@@ -37,11 +37,23 @@ eliminating the need to redo that work in code.
 A library that exposes device specific speech recognition capability.
 This plugin contains a set of classes that make it easy to use the speech recognition capabilities of the mobile device in Flutter.
 
-**Installation**
+[Built Value](https://github.com/google/built_value.dart)
+
+###### Introduction
+
+Built Value provides:
+
+    - Immutable value types;
+    - EnumClass, classes that behave like enums;
+    - JSON serialization.
+
+## Installation
 
 [flare_flutter 2.0.6](https://pub.dev/packages/flare_flutter)
 
 [speech_to_text 3.1.0](https://pub.dev/packages/speech_to_text)
+
+[Built Value](https://pub.dev/packages/built_value)
 
 ## Screenshots
 <img src="screenshots/1.jpg" width="260" height="550"> <img src="screenshots/2.jpg" width="260" height="550"> <img src="screenshots/3.jpg" width="260" height="550">
