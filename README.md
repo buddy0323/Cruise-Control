@@ -12,7 +12,8 @@ Design, prototype and evaluate a Voice-based user interface that is designed to 
 
 This could take many forms, but is likely to have some important features:
 
-	- The user can control the system by issuing voice commands. The language of commands that a user is able to use may be complex and presents a design challenge in its own right.
+	- The user can control the system by issuing voice commands. 
+	- The language of commands that a user is able to use may be complex.
 	- The response to user commands may take a variety of forms, through speech, text, or some combination of the two.
 
 **Youtube Data API V3**
